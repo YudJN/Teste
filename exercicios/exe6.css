@@ -1,0 +1,21 @@
+body {
+    font-family: Arial;
+    scroll-behavior: smooth;
+}
+nav {
+    position: fixed;
+    top: 0;
+    background: #fa0000;
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+}
+nav a {
+    color: white;
+    margin: 10px;
+    text-decoration: none;
+}
+section {
+    height: 100vh;
+    padding-top: 60px;
+}

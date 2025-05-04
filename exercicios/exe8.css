@@ -1,0 +1,13 @@
+body {
+    font-family: Arial;
+    padding: 20px;
+  }
+  .tabs button {
+    margin: 5px;
+    padding: 10px;
+  }
+  .conteudo-tab {
+    margin-top: 20px;
+    background: #f4f4f4;
+    padding: 15px;
+  }

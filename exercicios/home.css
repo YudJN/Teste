@@ -1,0 +1,12 @@
+h1{
+    color: #333;
+    font-size: 25px;
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    color: #3e0070;
+    cursor: pointer;
+    
+}
